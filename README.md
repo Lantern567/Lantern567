@@ -4,7 +4,9 @@
 
 ### [查看个人作品集 →](https://lantern567.github.io/)
 
-作品集包含精选项目、实现链路、工程证据与个人名片，支持手机访问。
+作品集包含组织项目、AI 应用、开源贡献与个人名片，支持手机访问。
+
+- **组织项目**：参与 **Clawgym** 的任务合成与评测流水线开发，涉及批次调度、任务生命周期、异常恢复和交付校验；另参与 Agent 评测环境准备、离线依赖修复与并行运行工程。个人职责概述见[作品集](https://lantern567.github.io/#projects)。
 
 - **AI 应用**：[论文到微信公众号草稿的工作流](https://github.com/Lantern567/Auto_paper_for_wechat)、[Obsidian 技术日报](https://github.com/Lantern567/obsidian-daily-digest)。
 - **开源协作**：为 [MAPPO VRP](https://github.com/Alto-R/MAPPO_VRP) 扩展路由服务和地理配送仿真环境，[PR #1](https://github.com/Alto-R/MAPPO_VRP/pull/1) 与 [PR #2](https://github.com/Alto-R/MAPPO_VRP/pull/2) 已合并。
