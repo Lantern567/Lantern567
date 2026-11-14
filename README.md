@@ -1,11 +1,5 @@
 # 你好，我是 Lantern567
 
-目前寻找 **AI 方向的开发机会**，关注 AI 应用开发与 Agent 工程。
-
-### [查看个人作品集 →](https://lantern567.github.io/)
-
-作品集包含组织项目、AI 应用、开源贡献与个人名片，支持手机访问。
-
 - **组织项目**：参与 **Clawgym** 的任务合成与评测流水线开发，涉及批次调度、任务生命周期、异常恢复和交付校验；另参与 Agent 评测环境准备、离线依赖修复与并行运行工程。个人职责概述见[作品集](https://lantern567.github.io/#projects)。
 
 - **AI 应用**：[论文到微信公众号草稿的工作流](https://github.com/Lantern567/Auto_paper_for_wechat)、[Obsidian 技术日报](https://github.com/Lantern567/obsidian-daily-digest)。
